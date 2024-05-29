@@ -12,7 +12,7 @@
 | 심재우<br>(BE Leader) | 석원준<br>(BE) | 송준상<br>(BE) | 김주비<br>(FE Leader) | 이세영<br>(FE) | 정호재<br>(FE) | 정솔<br>(FE) |
 |:--------:| :--------: | :--------: | :--------: | :--------: | :--------: |  :--------: |
 | <img src="https://i.imgur.com/2W7hWws.png" alt="심재우" width="80" height="80">| <img src="https://i.imgur.com/VxPdMLO.png" alt="석원준" width="80" height="80"> | <img src="https://i.imgur.com/LniOIND.jpg" alt="송준상" width="80" height="80"> | <img src="https://i.imgur.com/1XuB3kW.png" alt="김주비" width="80" height="80"> | <img src="https://i.imgur.com/Ecsz5WA.png" alt="이세영" width="80" height="80"> | <img src="https://i.imgur.com/PCrM3bM.png" alt="정호재" width="80" height="80"> |<img src="https://i.imgur.com/FHz0HxW.png" alt="정솔" width="80" height="80"> |
-|[@RapiL89](https://github.com/RapiL89) | [@swj8560](https://github.com/swj8560) | [@DDunDDang](https://github.com/DDunDDang) | [@mscojl24](https://github.com/mscojl24) | [@LEE2302](https://github.com/LEE2302) | [@JHJFE](https://github.com/JHJFE) | [@lyssoi](https://github.com/lyssoi) |
+|[@RapiL89](https://github.com/RapiL89) | [@ymind14563](https://github.com/ymind14563) | [@DDunDDang](https://github.com/DDunDDang) | [@mscojl24](https://github.com/mscojl24) | [@LEE2302](https://github.com/LEE2302) | [@JHJFE](https://github.com/JHJFE) | [@lyssoi](https://github.com/lyssoi) |
 
 
 </br>
